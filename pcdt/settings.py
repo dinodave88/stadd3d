@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'stadd3d.apps.Stadd3DConfig',
+    'stadd3d',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
