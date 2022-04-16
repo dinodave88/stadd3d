@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/16735719-48b5-48c0-83eb-43a0ec0f6a51/resourceGroups/dinotry2res/providers/Microsoft.Web/sites/dinotry2",
+    "appService.deploySubpath": "."
+}
